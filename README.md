@@ -1,16 +1,12 @@
 # memegeneratorapp
 
-A new Flutter project.
+Generating random memes from an api using http package
+When we initially open the app it shows nothing on clicking floating button it fetches and displays the meme 
 
-## Getting Started
+![4lf4c3](https://user-images.githubusercontent.com/40123185/98436424-13743980-2101-11eb-99b0-c601b6ce57d3.gif)
 
-This project is a starting point for a Flutter application.
+when we re click the button new meme is shown on the screen 
 
-A few resources to get you started if this is your first Flutter project:
+![4lf4na](https://user-images.githubusercontent.com/40123185/98436506-c5ac0100-2101-11eb-8ba7-48376cd35362.gif)
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![4lf52g](https://user-images.githubusercontent.com/40123185/98436614-c4c79f00-2102-11eb-97cc-a4e4126668b7.gif)
