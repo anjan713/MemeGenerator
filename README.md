@@ -1,5 +1,7 @@
 # memegeneratorapp
 
+![Pub Version](https://img.shields.io/pub/v/http?label=http)
+
 Generating random memes from an api using http package
 When we initially open the app it shows nothing on clicking floating button it fetches and displays the meme 
 
